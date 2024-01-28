@@ -1,2 +1,5 @@
-import python
+
+#requirements.txt
+import streamlit
+snowflake-connector-python
 
